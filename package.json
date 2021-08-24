@@ -1,0 +1,15 @@
+{
+  "name": "mini-reverse-proxy-https",
+  "version": "0.1.0",
+  "description": "A mini reverse proxy for https connections (dev only)",
+  "main": "index.js",
+  "dependencies": {
+    "devcert": "^1.2.0",
+    "http-proxy": "^1.18.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
